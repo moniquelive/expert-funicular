@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Teste de homepage"
 ---
 Ouviram do Ypiranga as margens plácidas.
