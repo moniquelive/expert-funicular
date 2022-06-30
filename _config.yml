@@ -1,1 +1,17 @@
 theme: minima
+
+minima:
+  skin: dark
+  date_format: "%-d/%m/%Y"
+  social_links:
+    twitter: moniquelive
+    github: moniquelive
+    facebook: moniquelive
+    instagram: moniquelive
+    linkedin: moniquelive
+    youtube: moniquelive
+    youtube_channel: UCML4uqYh36vkI0UTTGBxByg
+    youtube_channel_name: MoniqueLive
+
+header_pages:
+  - about.md
