@@ -1,0 +1,3 @@
+# Caso este site fosse um blog
+
+Seria assim que eu o manteria...
