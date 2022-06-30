@@ -6,6 +6,6 @@ Ouviram do Ypiranga as margens plácidas.
 
 De um povo heróico um brado retumbante.
 
-Agora com [página de About]({{ site.url }}/about.html)
+Agora com [página de About]({{ site.baseurl }}/about.html)
 
-E [posts]({{ site.url }}{% post_url 2022-06-29-primeiro %})
+E [posts]({{ site.baseurl }}{% post_url 2022-06-29-primeiro %})
