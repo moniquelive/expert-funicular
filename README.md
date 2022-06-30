@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/moniquelive/expert-funicular/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/moniquelive/expert-funicular/actions/workflows/pages/pages-build-deployment)
